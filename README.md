@@ -10,7 +10,6 @@ which has allowed me to strengthen my knowledge and develop hands-on skills focu
 My curiosity in Information Technology (IT) has led me to develop a passion for cybersecurity, Motivated and detail-oriented recent graduate in Cybersecurity, seeking to transition into the field as a SOC Analyst Tier 1 or Junior Cybersecurity Analyst. Eager to apply my academic training, hands-on lab experience, i would like  to contribute to a dynamic security operations team. Committed to continuous learning and growth within the cybersecurity landscape.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
