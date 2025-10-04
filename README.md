@@ -16,7 +16,7 @@ My curiosity in Information Technology (IT) has led me to develop a passion for 
 | Master Degree Projects                        | <a href="https://github.com/Johnny-corona-Bolivar/Master-s-Degree-Project/tree/main">Master Degree Projects |                                              
 | SOC Analyst Project with ELK (Home Project)   | <a href="https://github.com/Johnny-corona-Bolivar/SOC-Analyst-Project-with-ELK/tree/main">SOC Analyst Project with ELK </a>| 
 | Active Directory Project                      | <a href="https://github.com/Johnny-corona-Bolivar/Active-Directory-Project/tree/main">Active Directory Project Lab|
-| Hacking Etico (Practicas)                     | <a href="https://google.com">Maquinas CTF`s</a>|
+| Hacking Etico (Practicas)                     | <a href="https://github.com/Johnny-corona-Bolivar/Maquinas-CTF/tree/main">Maquinas CTF`s</a>|
 <!--
 | SOC Automation Project (Home Lab)              # <a href="https://google.com">Detection Lab</a>|
 | Security Automation with SOAR EDR               <a href="https://google.com">SOAR Automation Lab|
